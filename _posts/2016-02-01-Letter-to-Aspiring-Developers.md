@@ -1,0 +1,9 @@
+---
+title: Letter to Aspiring Developers
+---
+
+As I considered applying for code school, I spent a lot of time wondering if I would even be accepted. When I wasn't thinking about that, I was speculating about what would happen if I <i>did</i> get in. Could I cut it? Web development is an entirely new field for me. I don't think I possess the qualities that would make the average person go, "<i>Ah yes, I'll bet you know a lot about technology</i>." I'm not someone who has tinkered with code as a hobbyist. I don't have a strong mathematics background. I'm not even a gamer or a sci-fi enthusiast. I'd say that I'm tech-savvy, certainly, but not an expert. I just knew that I was interested in the field, that my husband has a satisfying career in IT, and I thought that the potential career opportunities would be a good fit with my natural abilities and interests. I'm someone who enjoys things that others would describe as tedious. I like spreadsheets. I like minutiae. I have a strong (too strong?) attention to detail. I'm creative. What I'm looking for in a job is something where I can frequently see tangible results of my efforts. This didn't happen a lot in my former career. So I went for it and applied to OCS. 
+
+I got in. 
+
+My advice for others who are considering this path would be to ask yourself if you realistically have what it takes to do this. Are you at least a little bit <i>pre</i>-prepared for this kind of program? Are you positive that you're not only passionate about technology innovations, but also someone who has no problem digesting large amounts of new and often abstract information very rapidly? Better yet, have you already started working with coding languages? Do you have the stamina to work long hours every day of the week for weeks on end in the acquisition of new skills? If that doesn't sound like you, perhaps you should reconsider. I wonder if it sounds like me.

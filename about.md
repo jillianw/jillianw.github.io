@@ -3,4 +3,4 @@ title: About
 permalink: /about/
 ---
 
-Talk about yourself here.
+Omaha Code School 2016 student.
