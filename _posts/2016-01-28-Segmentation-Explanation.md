@@ -34,4 +34,4 @@ Since the string is being deconstructed right to left, the words pushed into the
 
   <pre><code>arr.reverse</code></pre>
 
-This code passes our tests and takes care of the issue of cutting words off prematurely without their suffixes (like "basement" -- instead of cutting off "base" and being left over with "ment" which is not a word). But we're still left with the problem of prefixes. We just traded one problem for another, essentially, and we're going to have to come up with a solution for that in order for this to function properly with ANY string it might encounter. 
+This code passes our tests and takes care of the issue of cutting words off prematurely without their suffixes (like "basement" -- instead of cutting off "base" and being left over with "ment" which is not a word). But we're still left with the problem of prefixes. We just traded one problem for another, essentially, and we're going to have to come up with a solution for that in order for this to function properly with <i>any</i> string it might encounter. 

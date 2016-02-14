@@ -1,9 +1,4 @@
 ---
-title: Week 3 -- Let's Talk About Feelings
+title: Week 3 
 ---
 
-Things are not going great. 
-
-As far as the projects we're working on go, I can't say that I've had any recent triumphs or breakthroughs in understanding, and I think it's wearing on me. On the first day of class, I solved a couple of problems and felt reasonably capable, despite the fact that I struggled a great deal with the prep work. However, once we got into the string segmenter problem on Day 2, I was lost. I've been lost ever since. I just don't fully grasp the fundamentals of what we're doing. I couldn't speak intelligently about it if I wanted to. Even if I did understand more, everything is moving at such a fast pace and, considering the skill level that I'm at, well, it's not good. I simply cannot catch up. On good days, I tell myself, "Maybe all of this will click eventually. Let's just keeping fumbling along until it makes sense." Most days seem less hopeful. I'm honestly trying and it's just not getting any clearer. Before I can even get my head around something we're on to the next thing and I have yet another unfinished project on my hands. If I were a high-strung person I would be very distressed. Luckily, I'm not. But it's still not how I envisioned things.
-
-I try to not spend a lot of time comparing myself to others. I can certainly accept that I will have classmates that just have a knack for this sort of thing, or they've been tinkering with code before starting OCS, and naturally they'll be better at what we're doing. No problem. But I've watched and listened and I don't think it's an exaggeration to say that I'm likely the least capable person in this class. (I mean, someone <i>has</i> to be, right? Why not me? That would be fine if I wasn't also completely lost.) I'm not sure if I'll make it to graduation. There are a laundry list of reasons why I don't want to quit. Probably enough to keep that from happening, but who knows. If it comes to a point of just utter ridiculousness I'll have to reasses. If I'm to say one positive thing, it's that it hasn't reached <i>that</i> point yet. But what do I know?
