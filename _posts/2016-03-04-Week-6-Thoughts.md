@@ -6,7 +6,7 @@ We had a discussion on diversity and culture within the tech industry on Monday.
 
 Gender equity and diversity are worthy and needed topics of discussion in practically any workplace, to be certain. Another topic I wish was addressed more openly is that of greed. Especially as it pertains to human capital and the pervasive expectation that if you work in technology, you're going to have to put in ridiculously long hours. Who decided this? And why does everyone talk about it so matter-of-factly? Why do people accept it so readily? 
 
-If I felt like I had more time to do so, I'd research whether being totally over-worked, exhausted, and living without balance is somehow conducive to learning and the acquisition of new skills, productivity, accomplishments, etc. But instead, I'm going to go out on a big, strong-looking limb and say *no*. No, there is *no way* that those conditions benefit people in any other way than monetarily. Having a foosball table at the office does not make a customary 12+ hour work day acceptable. It just doesn't.
+If I felt like I had more time to do so, I'd research whether being totally over-worked, exhausted, and living without balance is somehow conducive to learning and the acquisition of new skills, productivity, accomplishments, etc. But instead, I'm going to go out on a big, sturdy-looking limb and say *no*. No, there is *no way* that those conditions benefit people in any other way than monetarily. Having a foosball table at the office does not make a customary 12+ hour work day acceptable. It just doesn't.
 
 I value my personal life. I value sleep. And balance. Sorry not sorry.
 
