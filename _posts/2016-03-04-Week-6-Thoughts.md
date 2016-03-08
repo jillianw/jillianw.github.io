@@ -1,5 +1,5 @@
 ---
-title: Week 6: Halfway There
+title: Week 6 -- Halfway There
 ---
 
 We had a discussion on diversity and culture within the tech industry on Monday. It got me thinking about another topic that has to do with work culture in the startup industry: the alleged 80-hour work week. 
